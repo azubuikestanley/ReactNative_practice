@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
   },
   container: {
     flexDirection: 'row',
-    height: '100',
+    height: 100,
   },
   v1: {
     flex: 1,
